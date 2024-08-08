@@ -24,7 +24,7 @@ function Loader({ size, justifyContent }) {
                 visible={true}
                 height={size}
                 width={size}
-                color="#397ce8"
+                color="#278ebf"
                 ariaLabel="tail-spin-loading"
                 radius="1"
             />
