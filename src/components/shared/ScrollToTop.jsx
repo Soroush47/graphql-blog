@@ -13,12 +13,12 @@ function ScrollToTop() {
         <Box position="fixed" bottom="10vh" right="5%" zIndex={1}>
             <IconButton
                 sx={{
-                    color: "#7986a5",
-                    backgroundColor: "#e1ebff",
-                    boxShadow: "#9e9e9e85 0 0 12px 1px",
+                    color: "#79a1a5",
+                    backgroundColor: "#e1f7ff",
+                    boxShadow: "#9e9e9e4c 0 0 12px 1px",
                     "&:hover": {
                         color: "#ffffff",
-                        backgroundColor: "#427bff",
+                        backgroundColor: "#3a8392",
                     },
                 }}
                 onClick={showTop}

@@ -10,7 +10,12 @@ const theme = createTheme({
         fontSizeHeavy: 800,
         fontSizeFat: 900,
     },
-    direction: "rtl"
+    direction: "rtl",
+    palette: {
+        primary: {
+            main: "#3a8392",
+        },
+    },
 });
 
 export default theme;
