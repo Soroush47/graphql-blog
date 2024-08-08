@@ -13,7 +13,7 @@ const theme = createTheme({
     direction: "rtl",
     palette: {
         primary: {
-            main: "#3a8392",
+            main: "#278ebf",
         },
     },
 });
