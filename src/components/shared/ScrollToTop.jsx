@@ -15,6 +15,7 @@ function ScrollToTop() {
                 sx={{
                     color: "#7986a5",
                     backgroundColor: "#e1ebff",
+                    boxShadow: "#9e9e9e85 0 0 12px 1px",
                     "&:hover": {
                         color: "#ffffff",
                         backgroundColor: "#427bff",
