@@ -10,7 +10,7 @@ function ScrollToTop() {
     };
 
     return (
-        <Box position="fixed" top="83%" left="94%">
+        <Box position="fixed" top="83%" right="3%" zIndex={1}>
             <IconButton
                 sx={{
                     color: "#7986a5",
@@ -24,12 +24,12 @@ function ScrollToTop() {
             >
                 <KeyboardArrowUpRoundedIcon
                     sx={{
-                        width: "2vw",
-                        height: "2vw",
-                        minWidth: "10px",
-                        minHeight: "10px",
-                        maxWidth: "25px",
-                        maxHeight: "25px",
+                        width: "25px",
+                        height: "25px",
+                        // minWidth: "10px",
+                        // minHeight: "10px",
+                        // maxWidth: "25px",
+                        // maxHeight: "25px",
                     }}
                 />
             </IconButton>
