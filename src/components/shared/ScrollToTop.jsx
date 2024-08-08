@@ -10,7 +10,7 @@ function ScrollToTop() {
     };
 
     return (
-        <Box position="fixed" top="83%" right="3%" zIndex={1}>
+        <Box position="fixed" bottom="12%" right="5%" zIndex={1}>
             <IconButton
                 sx={{
                     color: "#7986a5",
